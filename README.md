@@ -54,7 +54,7 @@ BCG X is transforming businesses using data science to help companies generate c
 
 Communicating your findings in a clear, actionable way.
 
-The link to this task can be found [here.]()
+The link to this task can be found [here.](https://github.com/regmckie/BCG_Data-Science_Job-Simulation/blob/main/Task2_Email.txt)
 
 ---
 
@@ -77,7 +77,7 @@ You need to analyze the following using Python:
 * The data types of each column
 * Distributions of columns
 
-The link to this task can be found [here.]()
+The link to this task can be found [here.](https://github.com/regmckie/BCG_Data-Science_Job-Simulation/blob/main/Task3_EDA.ipynb)
 
 ---
 
@@ -105,7 +105,7 @@ At this stage, your data could look vastly different or may have just some subtl
 
 You will be done with this task when you’re happy with the new set of features that you’ve created and you think you’re ready to build a model to see which of these features are useful for predicting churn. 
 
-The link to this task can be found [here.]()
+The link to this task can be found [here.](https://github.com/regmckie/BCG_Data-Science_Job-Simulation/blob/main/Task4_FeatureEngineering.ipynb)
 
 ---
 
@@ -117,7 +117,7 @@ To best predict the customer churn, your task is to:
 * Train a random forest classifier to predict churn
 * Evaluate the predictions using metrics to demonstrate how accurately the model has performed
 
-The link to this task can be found [here.]()
+The link to this task can be found [here.](https://github.com/regmckie/BCG_Data-Science_Job-Simulation/blob/main/Task5_ModelingExample.ipynb)
 
 ---
 
@@ -132,4 +132,4 @@ A few things to think about for this abstract include:
 * What are the next steps the client should take following your analysis?
 * What business impact? How would the model affect the client’s bottom line?
 
-The link to this task can be found [here.]()
+The link to this task can be found [here.](https://github.com/regmckie/BCG_Data-Science_Job-Simulation/blob/main/Task6_ExecutiveSummary.pdf)
