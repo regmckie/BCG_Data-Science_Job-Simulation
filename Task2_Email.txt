@@ -1,0 +1,22 @@
+Hello member of PowerCo,
+
+My name is Reg Gonzalez, and I'm working as a data science intern at BCG-X. I've been tasked, with the help of Estelle (senior data scientist), to work on this project to find ways to combat churn at PowerCo. We are excited to be working on this endeavor and look forward to collaborating with you.
+
+The team has discussed several reasons why customers would choose to stay with or switch energy providers. Some possible reasons include customer service, wanting a different type of energy source, products/services not working as intended, etc. However, in speaking with a member of PowerCo, they strongly believe the primary reason customers are churning is because they're opting towards lower-cost providers. 
+
+In order to test out this hypothesis effectively, we need the necessary data. Data points include:
+- Prices for your products & services
+- Purchasing trends within the last year
+- Location of businesses around the world
+- Prices for your competitors
+- Types of energy sources
+- Prices for products & services related to each type of energy source
+
+The above list is not exhaustive, and depending on our exploration/analysis, we may need more data.
+
+Once the data is collected, we will process and analyze it as necessary. This process will include initial exploratory data analysis and data cleaning, feature engineering, modeling and evaluation, and finally, a report about our findings and insights. 
+
+Again, thank you for partnering with BCG-X work on this problem. We look forward to obtaining the necessary data; we'll contact you for any other inquiries or next steps for this process.
+
+Thank you,
+Reg Gonzalez
